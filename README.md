@@ -1,2 +1,2 @@
 # Curso de HTML5
-Arquivos criados enquanto eu realizava o curso de HTML5 do canal Cursoemvideo
+Arquivos criados durante a realização do curso de HTML5 do canal Cursoemvideo
